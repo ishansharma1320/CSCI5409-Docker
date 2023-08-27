@@ -23,6 +23,6 @@ This repository contains my submission for the Docker Containerization assignmen
 **Exploring Cloud Computing Tools:** The assignment encouraged me to venture into cloud computing tools, boosting my confidence in tackling advanced cloud technologies.
 
 
-**Conclusion**
+# Conclusion
 
 Through this Docker Containerization assignment, I not only fulfilled the requirements but also deepened my understanding of containerization and Docker's role in modern software development. The knowledge gained from successfully completing this assignment has prepared me to confidently incorporate containerization practices and Docker tools into future projects and collaborations.
