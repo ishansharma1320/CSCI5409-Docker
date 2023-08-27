@@ -1,0 +1,14 @@
+services:  
+  container-1:
+    container_name: container-1
+    image: "ishandal1320/csci5409-a1-container-1"
+    ports:
+      - "6000:6000"
+    
+  container-2:
+    container_name: container-2
+    image: "ishandal1320/csci5409-a1-container-2"
+    ports:
+      - "7000:7000"
+    volumes:
+      - .:/usr/files/
